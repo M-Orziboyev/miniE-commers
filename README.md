@@ -1,5 +1,5 @@
 <h1>This project in progress</h1>
-<p>Recently day project up-to-date</p>
+<p>Recently day project must be update</p>
 
 # Getting Started with Create React App
 
